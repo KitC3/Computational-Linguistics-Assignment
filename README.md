@@ -10,3 +10,5 @@ Massimiliano Garzoni di Adorgnano
 Niklas Limacher
 
 Lecturer: Giovanni Cassani
+<br>
+Course: Computational Linguistics (800962-B-6)
