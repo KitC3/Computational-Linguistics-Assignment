@@ -1,5 +1,5 @@
 # Computational Linguistics Assignment
-Code for implementation of a language model
+Code for our implementation of the language model
 
 Group 05
 <br>
