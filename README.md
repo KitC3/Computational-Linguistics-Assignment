@@ -1,4 +1,4 @@
-# Computational Linguistics Assignment
+# Computational Linguistics Assignment - Code Submission
 Code for our implementation of the language model with interpolation.
 
 Group 05
