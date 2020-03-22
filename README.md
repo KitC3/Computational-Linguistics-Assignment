@@ -1,5 +1,5 @@
-# Computational-Linguistics-Assignment
-Repository for the Computational Linguistics course
+# Computational Linguistics Assignment
+Code for implementation of a language model
 
 Group 05
 <br>
